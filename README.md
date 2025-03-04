@@ -2,8 +2,11 @@
 A python texture merger for player head block generator by blockerlocker
 
 ## How to use it
-- Install the pillow `pip install pillow`
-- Rename your 6 textures same as example pictures:
+- Install the pillow
+  
+  `pip install pillow`
+  
+- Name your textures:
   
   ```
   North.png
